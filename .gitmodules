@@ -1,0 +1,16 @@
+[submodule "gateway-graphql-discord"]
+	path = gateway-graphql-discord
+	url = git@github.com:riezahughes/gateway-graphql-discord.git
+	branch = master
+[submodule "file-upload-graphql-discord"]
+	path = file-upload-graphql-discord
+	url = https://github.com/riezahughes/file-upload-graphql-discord
+	branch = master
+[submodule "user-accounts-graphql-discord"]
+	path = user-accounts-graphql-discord
+	url = git@github.com:riezahughes/user-accounts-graphql-discord.git
+	branch = master
+[submodule "ui-graphql-discord"]
+	path = ui-graphql-discord
+	url = git@github.com:riezahughes/ui-graphql-discord.git
+	branch = master
